@@ -29,3 +29,6 @@ node_modules
 
 # IDE and text editor cruft
 .idea
+
+# don't version the local config.
+local.config.js
